@@ -10,8 +10,8 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:muhammad.aamir.hassan@gmail.com" data-cursor="disable">
+                muhammad.aamir.hassan@gmail.com
               </a>
             </p>
             <h4>Education</h4>
@@ -28,7 +28,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
+              href="https://www.linkedin.com/in/muhammad-aamir-hassan"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -44,7 +44,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/therajeshchityal"
+              href="https://www.instagram.com/theaamir-hassan"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -54,7 +54,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Muhammad Aamir Hassan</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
